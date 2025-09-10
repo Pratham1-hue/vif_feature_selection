@@ -17,7 +17,7 @@ Variance Inflation Factor (VIF) measures how much a feature is correlated with o
 
 High VIF (> 5 or 10) indicates multicollinearity, which can make regression coefficients unstable.
 
-This utility helps automatically remove such problematic features.
+This utility helps automatically remove such problematic features in very easy way. It returns the names of column that are still in dataframe and can be used for model fitting. 
 
 
-### Developed by Pratham 
+#### Developed by Pratham 
